@@ -12,7 +12,12 @@
           "package_name": "com.company.civexam_pro"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "522640251078-des4gu7sc12sfq7dfkpfonaklevpr50j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBWAIrkydvaNel2li2mKwrF2qbBag7M98Q"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522640251078-des4gu7sc12sfq7dfkpfonaklevpr50j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
